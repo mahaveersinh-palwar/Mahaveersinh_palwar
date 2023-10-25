@@ -1,0 +1,15 @@
+ ------color & color name-------
+
+Blue   : 03045e-023e8a-0077b6-0096c7-00b4d8-48cae4-90e0ef-ade8f4-caf0f8
+Gray   : bfbdc1-6d6a75-37323e-deb841-de9e36
+Orange : 233d4d-fe7f2d-fcca46-a1c181-619b8a
+Black  : 0d1b2a-1b263b-415a77-778da9-e0e1dd
+
+
+    -------Fonts--------
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet"> 
+
+font-family: 'Roboto Condensed', sans-serif;
